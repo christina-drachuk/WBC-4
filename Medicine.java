@@ -14,6 +14,6 @@ public class Medicine extends Floater
      */
     public Medicine()
     {
-        super(5, 5);
+        super(4, 5);
     }
 }
